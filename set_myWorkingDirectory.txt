@@ -1,0 +1,8 @@
+# To specify a working directory other than the R startup,
+# place this file into the default startup directory and set the directory name below
+#
+dir_name
+c:SEI
+
+
+
